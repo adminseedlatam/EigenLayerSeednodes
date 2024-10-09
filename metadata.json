@@ -2,7 +2,6 @@
   "name": "seednode",
   "website": "https://seedlatam.org",
   "description": "Node infrastructure and education services",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/adminseedlatam/EigenLayerSeednodes/refs/heads/main/seedNodesLogo.png",
   "twitter": "https://x.com/SEEDNodes"
 }
-
